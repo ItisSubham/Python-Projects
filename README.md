@@ -101,7 +101,7 @@ Real-world applications for productivity, task management, and financial trackin
 | 19  | [**Memory Sequence Game**](19-memory-sequence-game)         | Challenge your memory with sequences            |     🎮 Game     |
 | 20  | [**Rock Paper Scissors**](20-rock-paper-scissors)           | Classic game with multiple strategies           |     🎮 Game     |
 | 21  | [**Task Manager**](21-task-manager)                         | Command-line task organization                  | 💼 Productivity |
-| 22  | [**Simple Chat Bot**](22-simple-chat-bot)                   | Basic conversational AI implementation          |      🤖 AI      |
+| 22  | [**Simple Chat Bot**](22-simple-chat-bot)                   | Basic conversational Chat implementation          |      🛠️ Utility      |
 | 23  | [**Word Counter**](23-word-counter)                         | Comprehensive text analysis tool                |   🛠️ Utility    |
 | 24  | [**Currency Converter**](24-currency-converter)             | Real-time currency exchange rates               |   💼 Finance    |
 | 25  | [**Password Generator**](25-password-generator)             | Secure password creation utility                |   🔐 Security   |
